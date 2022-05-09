@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "mysql1234",
+    "database": "pets__database",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "mysql1234",
+    "database": "pets__database",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "mysql1234",
+    "database": "pets__database",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
